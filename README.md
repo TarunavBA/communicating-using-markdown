@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: Communicating using Markdown </h1>
 
-This repository powers the Learning Lab course [_Communicating using Markdown_](https://lab.github.com/githubtraining/communicating-using-markdown). 
+This repository powers the Learning Lab course [*Communicating using Markdown*](https://lab.github.com/githubtraining/communicating-using-markdown). 
 
 Every Learning Lab course is made up of:
 - a [course repository](https://github.com/githubtraining/communicating-using-markdown), and
